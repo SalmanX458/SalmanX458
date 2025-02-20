@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Salman. I live in Faisalabad, Pakistan. I am 20 years old.
+My name is Salman. I live in Faisalabad, Pakistan. I am 20 years old.<br>
 
-🌱 I am currently learning Cloud Engineering.
-👯 I am looking to collaborate on or Intern in cloud Technology.
-📫 Reach me at **salman.488215@gmail.com**
+🌱 I am currently learning Cloud Engineering.<br>
+👯 I am looking to collaborate on or Intern in cloud Technology.<br>
+📫 Reach me at **salman.488215@gmail.com**<br>
 📞 **Whatsapp** +923298357276
